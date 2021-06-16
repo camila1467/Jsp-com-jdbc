@@ -1,7 +1,7 @@
 # Jsp-com-jdbc
 Jsf com jdbc
 
-projeto criado com Jsf servlet e jdbc.
+projeto de cadastro de usuário criado com Jsp. servlet eJDBC para persistencia de dados, Servlets para as requisições e resposta das solicitações do Usuário, Front-End do Projeto Utilizando HTML5, CSS3 e JavaScript
 
 
 tela de login:
